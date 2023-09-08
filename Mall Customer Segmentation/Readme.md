@@ -42,17 +42,10 @@ To use this project, follow these steps:
 - mpl_toolkits (for 3D visualization)
 - warnings
 
-## Dataset Source
-
-The dataset used in this project can be found [here](https://example.com/dataset).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
-## Acknowledgments
 
-- Special thanks to the contributors and maintainers of the libraries and tools used in this project.
-
-Feel free to contribute or provide feedback to enhance this project.
 
