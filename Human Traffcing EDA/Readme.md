@@ -65,18 +65,8 @@ To use this project, follow these steps:
 - plotly
 - seaborn
 
-## Dataset Sources
-
-- Main Dataset: `CTDCK_data.csv`
-- ISO-3 Country Codes: `continents2.csv`
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Special thanks to the contributors and maintainers of the libraries and tools used in this project.
-
-Feel free to contribute or provide feedback to improve this project.
+This project is licensed under the MIT License 
 
